@@ -1,6 +1,6 @@
 # Intelligent Healthcare Diagnostic Assistant
 
-**Capstone Project — Introduction to AI (13-Week Course)**
+**Capstone Project — Introduction to AI 
 
 An end-to-end AI system that combines an intelligent agent, first-order-logic
 inference, Bayesian probabilistic reasoning, classical machine learning, a
@@ -57,7 +57,7 @@ that off to the planner to generate a step-by-step treatment plan.
 └── README.md
 ```
 
-## Setup (Ubuntu)
+## Setup 
 
 ```bash
 # 1. Prerequisites

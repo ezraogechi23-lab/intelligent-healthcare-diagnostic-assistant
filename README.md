@@ -137,13 +137,4 @@ Classifier (Gradient Boosting) is the strongest, at ~92% accuracy.
   aren't used anywhere in this codebase — the Bayesian and fuzzy-logic
   modules are hand-implemented with numpy instead.
 
-## Deliverables checklist
 
-- [x] All 7 modules complete and integrated
-- [x] `app.py` runs end-to-end without errors
-- [x] Evaluation metrics computed for all ML modules
-- [x] Confusion matrices generated for each classifier
-- [x] Module comparison bar chart generated
-- [x] At least 5 test patients diagnosed by the full system
-- [ ] Final report PDF in `reports/` folder
-- [ ] 10-minute live demo prepared
